@@ -1,0 +1,2977 @@
+{
+  "anaemia": {
+    "symptoms": [
+      "tiredness",
+      "dizziness or feeling light-headed",
+      "cold hands and feet",
+      "headache",
+      "shortness of breath, especially upon exertion",
+      "pale mucous membranes",
+      "pale skin and under the fingernails",
+      "rapid breathing and heart rate",
+      "dizziness when standing up",
+      "bruising more easily"
+    ],
+    "causes": [
+      "poor nutrition",
+      "infections",
+      "chronic diseases",
+      "heavy menstruation",
+      "pregnancy issues",
+      "family history",
+      "iron deficiency",
+      "vitamin deficiencies (A, B12, folate)",
+      "malaria",
+      "inherited disorders (thalassemia, sickle cell)"
+    ],
+    "treatment": [
+      "iron-rich foods",
+      "vitamin supplements",
+      "malaria prevention/treatment",
+      "vaccinations",
+      "delayed cord clamping after childbirth",
+      "managing chronic diseases"
+    ],
+    "when_to_call_doctor": [
+      "severe fatigue",
+      "shortness of breath at rest",
+      "rapid heartbeat",
+      "unexplained bruising",
+      "pale skin/mucous membranes"
+    ]
+  },
+  "animal_bite": {
+    "symptoms": [
+      "pain",
+      "swelling",
+      "necrosis",
+      "infection signs (redness, pus)",
+      "fever",
+      "rabies symptoms (agitation, hydrophobia)"
+    ],
+    "causes": [
+      "bites from venomous animals (snakes, spiders)",
+      "rabies exposure (dogs, bats, monkeys)",
+      "bacterial infections (cat/dog bites)"
+    ],
+    "treatment": [
+      "wound cleaning",
+      "antivenom (snake bites)",
+      "rabies post-exposure prophylaxis",
+      "tetanus vaccine",
+      "antibiotics"
+    ],
+    "when_to_call_doctor": [
+      "signs of infection",
+      "venomous bite",
+      "unvaccinated animal bite",
+      "rabies risk exposure"
+    ]
+  },
+  "anxiety-disorders": {
+    "symptoms": [
+      "excessive fear/worry",
+      "panic attacks",
+      "trouble concentrating",
+      "irritability",
+      "nausea",
+      "heart palpitations",
+      "sweating/trembling",
+      "sleep disturbances",
+      "sense of impending doom"
+    ],
+    "causes": [
+      "genetic factors",
+      "trauma",
+      "chronic stress",
+      "physical health conditions",
+      "substance abuse"
+    ],
+    "treatment": [
+      "cognitive-behavioral therapy",
+      "SSRIs (antidepressants)",
+      "stress management",
+      "exercise",
+      "avoiding alcohol/drugs"
+    ],
+    "when_to_call_doctor": [
+      "daily life impairment",
+      "suicidal thoughts",
+      "panic attacks",
+      "self-medication with substances"
+    ]
+  },
+  "asbestos": {
+    "symptoms": [
+      "chronic cough",
+      "chest pain",
+      "difficulty breathing",
+      "latent symptoms (mesothelioma)"
+    ],
+    "causes": [
+      "asbestos exposure",
+      "occupational hazards (construction, mining)"
+    ],
+    "treatment": [
+      "no cure for asbestos-related diseases",
+      "symptom management",
+      "mesothelioma treatment"
+    ],
+    "when_to_call_doctor": [
+      "prolonged respiratory symptoms",
+      "history of asbestos exposure"
+    ]
+  },
+  "asthma": {
+    "symptoms": [
+      "persistent cough",
+      "wheezing",
+      "shortness of breath",
+      "chest tightness",
+      "worsening symptoms during exercise/cold"
+    ],
+    "causes": [
+      "genetics",
+      "allergies",
+      "urbanization",
+      "air pollution",
+      "early-life respiratory infections"
+    ],
+    "treatment": [
+      "bronchodilators",
+      "steroid inhalers",
+      "avoiding triggers",
+      "spacer devices for inhalers"
+    ],
+    "when_to_call_doctor": [
+      "frequent nighttime symptoms",
+      "rescue inhaler overuse",
+      "severe asthma attacks"
+    ]
+  },
+  "autism": {
+    "symptoms": [
+      "social interaction difficulties",
+      "communication challenges",
+      "repetitive behaviors",
+      "sensory sensitivities",
+      "co-occurring conditions (epilepsy, ADHD)"
+    ],
+    "causes": [
+      "genetic factors",
+      "environmental influences",
+      "no link to vaccines (debunked)"
+    ],
+    "treatment": [
+      "early psychosocial interventions",
+      "speech therapy",
+      "occupational therapy",
+      "family support"
+    ],
+    "when_to_call_doctor": [
+      "delayed developmental milestones",
+      "regression in skills",
+      "severe behavioral challenges"
+    ]
+  },
+  "bacterial-vaginosis": {
+    "symptoms": [
+      "unusual vaginal discharge",
+      "fishy odor",
+      "vaginal itching",
+      "burning during urination"
+    ],
+    "causes": [
+      "bacterial imbalance",
+      "douching",
+      "unprotected sex",
+      "multiple partners"
+    ],
+    "treatment": [
+      "metronidazole",
+      "clindamycin",
+      "avoiding vaginal irritants"
+    ],
+    "when_to_call_doctor": [
+      "persistent symptoms",
+      "pregnancy concerns",
+      "recurrent infections"
+    ]
+  },
+  "bipolar-disorder": {
+    "symptoms": [
+      "manic episodes (euphoria, sudden mood shifts, irritability, agitation)",
+      "highly inflated self-esteem",
+      "rapid speech and shifting ideas",
+      "trouble concentrating",
+      "decreased need for sleep",
+      "reckless behavior (overspending, risky sexual activity)",
+      "fixed grandiose or persecutory beliefs",
+      "depressive episodes (sadness, irritability, emptiness)",
+      "loss of interest in activities",
+      "poor concentration",
+      "excessive guilt or low self-worth",
+      "hopelessness",
+      "thoughts of dying or suicide",
+      "disrupted sleep",
+      "changes in appetite or weight",
+      "fatigue or low energy"
+    ],
+    "causes": [
+      "genetic factors",
+      "psychological factors",
+      "social and structural factors",
+      "adverse life events (bereavement, violence, relationship breakdown)",
+      "alcohol or drug use"
+    ],
+    "treatment": [
+      "mood stabilizers (lithium, valproate)",
+      "antipsychotics",
+      "antidepressants (combined with mood stabilizers during depressive episodes)",
+      "cognitive-behavioral therapy",
+      "interpersonal therapy",
+      "psychoeducation",
+      "family psychoeducation",
+      "supported employment and housing",
+      "peer support groups",
+      "lifestyle changes (regular sleep, physical activity, healthy diet)"
+    ]
+  },
+  "birth-defects": {
+    "symptoms": [
+      "structural anomalies (e.g., heart defects, cleft lip/palate)",
+      "functional anomalies (e.g., metabolic disorders)",
+      "intellectual disability",
+      "physical disabilities"
+    ],
+    "causes": [
+      "genetic abnormalities (chromosomal or single-gene defects)",
+      "consanguinity (related parents)",
+      "maternal infections (syphilis, rubella, Zika)",
+      "exposure to radiation or pollutants",
+      "maternal nutritional deficiencies (iodine, folate)",
+      "maternal diabetes",
+      "alcohol or drug use during pregnancy",
+      "advanced maternal age"
+    ],
+    "treatment": [
+      "surgery (e.g., for heart defects, cleft lip/palate)",
+      "medical treatment (e.g., for congenital hypothyroidism)",
+      "physical therapy",
+      "speech therapy",
+      "occupational therapy",
+      "family and community support"
+    ]
+  },
+  "blindness-and-visual-impairment": {
+    "symptoms": [
+      "blurred vision",
+      "loss of vision",
+      "difficulty seeing in low light",
+      "blind spots",
+      "eye pain (in some cases)"
+    ],
+    "causes": [
+      "refractive errors",
+      "cataract",
+      "diabetic retinopathy",
+      "glaucoma",
+      "age-related macular degeneration",
+      "congenital cataract (in children)",
+      "retinopathy of prematurity (in infants)"
+    ],
+    "treatment": [
+      "corrective lenses (glasses, contact lenses)",
+      "cataract surgery",
+      "laser therapy (for diabetic retinopathy)",
+      "medications (e.g., eye drops for glaucoma)",
+      "low-vision aids",
+      "rehabilitation services"
+    ]
+  },
+  "blood-safety-and-availability": {
+    "symptoms": [
+      "Not applicable (this entry focuses on blood transfusion systems, not a disease)"
+    ],
+    "causes": [
+      "Not applicable"
+    ],
+    "treatment": [
+      "Not applicable"
+    ]
+  },
+  "botulism": {
+    "symptoms": [
+      "fatigue and weakness",
+      "vertigo",
+      "blurred vision",
+      "dry mouth",
+      "difficulty swallowing and speaking",
+      "vomiting, diarrhea, or constipation",
+      "abdominal swelling",
+      "muscle weakness (neck, arms, respiratory muscles)",
+      "respiratory failure"
+    ],
+    "causes": [
+      "ingestion of botulinum toxin in contaminated food",
+      "wound infection by Clostridium botulinum",
+      "infant botulism (ingestion of spores)",
+      "inhalation of aerosolized toxin (rare)"
+    ],
+    "treatment": [
+      "botulinum antitoxin",
+      "mechanical ventilation (for respiratory failure)",
+      "wound care (for wound botulism)",
+      "antibiotics (for wound botulism only)"
+    ]
+  },
+  "breast-cancer": {
+    "symptoms": [
+      "breast lump or thickening (usually painless)",
+      "changes in breast size, shape, or appearance",
+      "dimpling, redness, or pitting of breast skin",
+      "changes in nipple appearance or discharge (may be bloody)",
+      "swelling in lymph nodes (underarm or collarbone)",
+      "bone pain or headaches (if metastasized)"
+    ],
+    "causes": [
+      "female gender (primary risk factor)",
+      "increasing age",
+      "family history of breast cancer",
+      "inherited gene mutations (BRCA1, BRCA2, PALB-2)",
+      "hormonal factors (early menstruation, late menopause)",
+      "obesity",
+      "alcohol consumption",
+      "radiation exposure",
+      "postmenopausal hormone therapy"
+    ],
+    "treatment": [
+      "surgery (lumpectomy, mastectomy)",
+      "radiation therapy",
+      "chemotherapy",
+      "hormonal therapy (tamoxifen, aromatase inhibitors)",
+      "targeted biological therapy (e.g., trastuzumab for HER2-positive cancer)",
+      "palliative care (for advanced stages)"
+    ]
+  },
+  "brucellosis": {
+    "symptoms": [
+      "fever",
+      "weakness",
+      "malaise",
+      "weight loss",
+      "joint pain",
+      "swelling of joints",
+      "headache",
+      "sweating"
+    ],
+    "causes": [
+      "infection with Brucella bacteria",
+      "consumption of unpasteurized milk or cheese",
+      "direct contact with infected animals (farmers, veterinarians)",
+      "occupational exposure (slaughterhouse workers)"
+    ],
+    "treatment": [
+      "antibiotics (doxycycline + streptomycin or rifampicin)",
+      "hydration and electrolyte replacement",
+      "pain management"
+    ]
+  },
+  "burns": {
+    "symptoms": [
+      "skin redness (first-degree burns)",
+      "blisters (second-degree burns)",
+      "white or charred skin (third-degree burns)",
+      "pain (in first- and second-degree burns)",
+      "shock (in severe cases)"
+    ],
+    "causes": [
+      "heat (scalds, flames, hot objects)",
+      "radiation",
+      "electricity",
+      "chemicals",
+      "friction"
+    ],
+    "treatment": [
+      "cool running water (for thermal burns)",
+      "wound cleaning and dressing",
+      "pain relief (analgesics)",
+      "intravenous fluids (for severe burns)",
+      "skin grafts (for deep burns)",
+      "antibiotics (if infection occurs)"
+    ]
+  },
+  "buruli-ulcer": {
+    "symptoms": [
+      "painless swelling (nodule)",
+      "large painless area of induration (plaque)",
+      "diffuse swelling of limbs or face (oedema)",
+      "ulceration (within 4 weeks)",
+      "bone deformities (in severe cases)"
+    ],
+    "causes": [
+      "infection with Mycobacterium ulcerans",
+      "environmental exposure (exact mode unknown)",
+      "possible transmission through water or insects"
+    ],
+    "treatment": [
+      "antibiotics (rifampicin + clarithromycin)",
+      "wound care",
+      "surgery (debridement, skin grafting)",
+      "physiotherapy (for mobility issues)"
+    ]
+  },
+  "campylobacter": {
+    "symptoms": [
+      "diarrhea (often bloody)",
+      "abdominal pain",
+      "fever",
+      "headache",
+      "nausea",
+      "vomiting"
+    ],
+    "causes": [
+      "infection with Campylobacter bacteria",
+      "consumption of undercooked poultry or contaminated milk",
+      "contact with infected animals",
+      "contaminated water"
+    ],
+    "treatment": [
+      "rehydration (oral or intravenous)",
+      "electrolyte replacement",
+      "antibiotics (for severe or invasive cases)"
+    ]
+  },
+  "cancer-in-children": {
+    "symptoms": [
+      "persistent fever",
+      "unexplained weight loss",
+      "fatigue",
+      "lumps or swelling (e.g., in abdomen, neck)",
+      "bruising or bleeding easily",
+      "bone pain",
+      "headaches (with vomiting)",
+      "eye or vision changes"
+    ],
+    "causes": [
+      "genetic predisposition (10% of cases)",
+      "chronic infections (HIV, Epstein-Barr virus)",
+      "radiation exposure",
+      "environmental toxins (rare)"
+    ],
+    "treatment": [
+      "chemotherapy",
+      "surgery",
+      "radiation therapy",
+      "stem cell transplant",
+      "targeted therapy",
+      "palliative care"
+    ]
+  },
+  "cancer": {
+    "symptoms": [
+      "lumps or abnormal growths",
+      "persistent cough or hoarseness",
+      "changes in bowel or bladder habits",
+      "unexplained weight loss",
+      "fatigue",
+      "skin changes (e.g., yellowing, darkening)",
+      "difficulty swallowing",
+      "unusual bleeding or discharge"
+    ],
+    "causes": [
+      "tobacco use",
+      "unhealthy diet",
+      "physical inactivity",
+      "alcohol consumption",
+      "chronic infections (HPV, hepatitis B/C)",
+      "environmental carcinogens (asbestos, radiation)",
+      "genetic factors"
+    ],
+    "treatment": [
+      "surgery",
+      "radiation therapy",
+      "chemotherapy",
+      "immunotherapy",
+      "targeted therapy",
+      "hormone therapy",
+      "palliative care"
+    ]
+  },
+  "candidiasis": {
+    "symptoms": [
+      "vaginal itching and redness (vaginal yeast infection)",
+      "thick, white vaginal discharge",
+      "pain during urination or sex",
+      "white patches in mouth (oral thrush)",
+      "pain or difficulty swallowing (esophageal candidiasis)",
+      "red, shiny skin patches (skin candidiasis)"
+    ],
+    "causes": [
+      "overgrowth of Candida yeast",
+      "antibiotic use",
+      "weakened immune system (HIV, diabetes)",
+      "hormonal changes (pregnancy, birth control)",
+      "poor hygiene or moist environments"
+    ],
+    "treatment": [
+      "antifungal creams (clotrimazole)",
+      "oral antifungals (fluconazole)",
+      "antifungal mouthwash (for oral thrush)",
+      "probiotics (may help prevent recurrence)"
+    ]
+  },
+  "cardiovascular-diseases": {
+    "symptoms": [
+      "chest pain or discomfort (heart attack)",
+      "pain in arms, shoulder, jaw, or back",
+      "shortness of breath",
+      "nausea or vomiting",
+      "light-headedness",
+      "sudden weakness or numbness (stroke)",
+      "confusion or speech difficulty",
+      "vision problems"
+    ],
+    "causes": [
+      "tobacco use",
+      "unhealthy diet",
+      "physical inactivity",
+      "obesity",
+      "high blood pressure",
+      "diabetes",
+      "high cholesterol",
+      "genetic factors"
+    ],
+    "treatment": [
+      "lifestyle changes (diet, exercise)",
+      "medications (aspirin, statins, beta-blockers)",
+      "surgery (angioplasty, bypass)",
+      "rehabilitation (post-stroke or heart attack)"
+    ]
+  },
+  "cervical-cancer": {
+    "symptoms": [
+      "abnormal vaginal bleeding",
+      "pelvic pain",
+      "pain during sex",
+      "unusual vaginal discharge",
+      "weight loss",
+      "fatigue"
+    ],
+    "causes": [
+      "persistent HPV infection",
+      "smoking",
+      "weakened immune system (e.g., HIV)",
+      "long-term use of oral contraceptives",
+      "multiple pregnancies"
+    ],
+    "treatment": [
+      "surgery (hysterectomy)",
+      "radiation therapy",
+      "chemotherapy",
+      "targeted therapy",
+      "palliative care"
+    ]
+  },
+  "chagas-disease": {
+    "symptoms": [
+      "fever (acute phase)",
+      "swelling at infection site (chagoma)",
+      "Roma\u00f1a's sign (swollen eyelid)",
+      "fatigue (chronic phase)",
+      "irregular heartbeat",
+      "digestive issues (enlarged esophagus or colon)"
+    ],
+    "causes": [
+      "infection with Trypanosoma cruzi parasite",
+      "bite of infected triatomine bug",
+      "consumption of contaminated food",
+      "congenital transmission",
+      "blood transfusion or organ transplant"
+    ],
+    "treatment": [
+      "antiparasitic drugs (benznidazole, nifurtimox)",
+      "symptomatic treatment (heart or digestive complications)",
+      "pacemaker (for cardiac arrhythmias)"
+    ]
+  },
+  "chikungunya": {
+    "symptoms": [
+      "fever",
+      "severe joint pain",
+      "joint swelling",
+      "muscle pain",
+      "headache",
+      "nausea",
+      "fatigue",
+      "rash"
+    ],
+    "causes": [
+      "chikungunya virus",
+      "transmitted by infected mosquitoes (Aedes aegypti and Aedes albopictus)"
+    ],
+    "treatment": [
+      "no specific antiviral treatment",
+      "antipyretic and analgesic medications (e.g., paracetamol)",
+      "supportive care (hydration, rest)"
+    ]
+  },
+  "child-maltreatment": {
+    "symptoms": [
+      "physical and emotional ill-treatment",
+      "sexual abuse",
+      "neglect",
+      "commercial exploitation"
+    ],
+    "causes": [
+      "family breakdown",
+      "violence between family members",
+      "social isolation",
+      "lack of support networks",
+      "parental stress or mental health issues"
+    ],
+    "treatment": [
+      "parent and caregiver support programs",
+      "education and life skills training",
+      "counselling and therapy",
+      "legal protection and enforcement"
+    ]
+  },
+  "child-mortality-under-5-years": {
+    "symptoms": [
+      "preterm birth complications",
+      "birth asphyxia/trauma",
+      "pneumonia",
+      "diarrhoea",
+      "malaria"
+    ],
+    "causes": [
+      "lack of access to healthcare",
+      "poor nutrition",
+      "infectious diseases",
+      "environmental factors"
+    ],
+    "treatment": [
+      "skilled delivery at birth",
+      "postnatal care",
+      "breastfeeding support",
+      "vaccinations",
+      "treatment for common childhood illnesses"
+    ]
+  },
+  "chlamydia": {
+    "symptoms": [
+      "unusual urethral discharge",
+      "vaginal discharge",
+      "burning when urinating",
+      "pain in testicles (men)",
+      "bleeding between periods (women)",
+      "abdominal pain (women)"
+    ],
+    "causes": [
+      "Chlamydia trachomatis bacterium",
+      "unprotected sexual contact"
+    ],
+    "treatment": [
+      "antibiotics (doxycycline or azithromycin)",
+      "partner notification and treatment",
+      "abstinence until treatment completion"
+    ]
+  },
+  "cholera": {
+    "symptoms": [
+      "severe acute watery diarrhoea",
+      "dehydration",
+      "vomiting",
+      "rapid heart rate"
+    ],
+    "causes": [
+      "Vibrio cholerae bacterium",
+      "consumption of contaminated food or water"
+    ],
+    "treatment": [
+      "oral rehydration solution (ORS)",
+      "intravenous fluids for severe cases",
+      "antibiotics for severe cases",
+      "zinc supplements for children"
+    ]
+  },
+  "chronic-obstructive-pulmonary-disease-(copd)": {
+    "symptoms": [
+      "chronic cough",
+      "shortness of breath",
+      "wheezing",
+      "chest tightness",
+      "fatigue"
+    ],
+    "causes": [
+      "tobacco smoking",
+      "exposure to air pollution",
+      "occupational dust and chemicals",
+      "genetic factors (e.g., alpha-1 antitrypsin deficiency)"
+    ],
+    "treatment": [
+      "bronchodilators",
+      "inhaled corticosteroids",
+      "pulmonary rehabilitation",
+      "oxygen therapy for severe cases",
+      "smoking cessation"
+    ]
+  },
+  "colorectal-cancer": {
+    "symptoms": [
+      "changes in bowel habits",
+      "blood in stool",
+      "abdominal pain",
+      "unexplained weight loss",
+      "fatigue"
+    ],
+    "causes": [
+      "age (over 50)",
+      "family history",
+      "diet high in processed meats",
+      "sedentary lifestyle",
+      "obesity",
+      "smoking",
+      "excessive alcohol consumption"
+    ],
+    "treatment": [
+      "surgery",
+      "chemotherapy",
+      "radiation therapy",
+      "targeted therapy",
+      "immunotherapy"
+    ]
+  },
+  "coronavirus-disease-(covid-19)": {
+    "symptoms": [
+      "fever",
+      "chills",
+      "sore throat",
+      "cough",
+      "shortness of breath",
+      "fatigue",
+      "loss of taste or smell"
+    ],
+    "causes": [
+      "SARS-CoV-2 virus",
+      "close contact with infected individuals"
+    ],
+    "treatment": [
+      "supportive care",
+      "antiviral medications (in some cases)",
+      "oxygen therapy for severe cases",
+      "hospitalization for critical cases"
+    ]
+  },
+  "crimean-congo-haemorrhagic-fever": {
+    "symptoms": [
+      "fever",
+      "muscle aches",
+      "dizziness",
+      "neck pain",
+      "headache",
+      "sore eyes",
+      "nausea",
+      "vomiting",
+      "diarrhoea"
+    ],
+    "causes": [
+      "Crimean-Congo haemorrhagic fever virus",
+      "tick bites",
+      "contact with infected animal blood or tissues"
+    ],
+    "treatment": [
+      "early intensive supportive care",
+      "fluid management",
+      "ribavirin (under clinical trial conditions)"
+    ]
+  },
+  "deafness-and-hearing-loss": {
+    "symptoms": [
+      "difficulty hearing conversational speech",
+      "difficulty hearing loud sounds",
+      "tinnitus (ringing in the ears)"
+    ],
+    "causes": [
+      "genetic factors",
+      "intrauterine infections",
+      "chronic ear infections",
+      "exposure to loud noise",
+      "aging",
+      "ototoxic medications"
+    ],
+    "treatment": [
+      "hearing aids",
+      "cochlear implants",
+      "speech and language therapy",
+      "sign language training",
+      "assistive listening devices"
+    ]
+  },
+  "dementia": {
+    "symptoms": [
+      "forgetting things or recent events",
+      "losing or misplacing things",
+      "getting lost when walking or driving",
+      "being confused, even in familiar places",
+      "losing track of time",
+      "difficulties solving problems or making decisions",
+      "problems following conversations or trouble finding words",
+      "difficulties performing familiar tasks",
+      "misjudging distances to objects visually",
+      "feeling anxious, sad, or angry about memory loss",
+      "personality changes",
+      "inappropriate behaviour",
+      "withdrawal from work or social activities",
+      "being less interested in other people\u2019s emotions"
+    ],
+    "causes": [
+      "age (more common in those 65 or older)",
+      "high blood pressure (hypertension)",
+      "high blood sugar (diabetes)",
+      "being overweight or obese",
+      "smoking",
+      "drinking too much alcohol",
+      "being physically inactive",
+      "being socially isolated",
+      "depression"
+    ],
+    "treatment": [
+      "being physically active",
+      "taking part in activities and social interactions that stimulate the brain and maintain daily function",
+      "Cholinesterase inhibitors like donepezil",
+      "NMDA receptor antagonists like memantine",
+      "Medicines to control blood pressure and cholesterol",
+      "Selective serotonin reuptake inhibitors (SSRIs)"
+    ]
+  },
+  "dengue-and-severe-dengue": {
+    "symptoms": [
+      "high fever (40\u00b0C/104\u00b0F)",
+      "severe headache",
+      "pain behind the eyes",
+      "muscle and joint pains",
+      "nausea",
+      "vomiting",
+      "swollen glands",
+      "rash",
+      "severe abdominal pain",
+      "persistent vomiting",
+      "rapid breathing",
+      "bleeding gums or nose",
+      "fatigue",
+      "restlessness",
+      "blood in vomit or stool",
+      "being very thirsty",
+      "pale and cold skin",
+      "feeling weak"
+    ],
+    "causes": [
+      "infected mosquitoes",
+      "previous infection with DENV increases the risk"
+    ],
+    "treatment": [
+      "rest",
+      "drink plenty of liquids",
+      "use acetaminophen (paracetamol) for pain",
+      "avoid non-steroidal anti-inflammatory drugs, like ibuprofen and aspirin"
+    ]
+  },
+  "depression": {
+    "symptoms": [
+      "depressed mood (feeling sad, irritable, empty)",
+      "loss of pleasure or interest in activities",
+      "poor concentration",
+      "feelings of excessive guilt or low self-worth",
+      "hopelessness about the future",
+      "thoughts about dying or suicide",
+      "disrupted sleep",
+      "changes in appetite or weight",
+      "feeling very tired or low in energy"
+    ],
+    "causes": [
+      "adverse life events (unemployment, bereavement, traumatic events)",
+      "physical health issues",
+      "harmful use of alcohol",
+      "lack of physical activity"
+    ],
+    "treatment": [
+      "psychological treatments (behavioral activation, cognitive behavioral therapy, interpersonal psychotherapy, problem-solving therapy)",
+      "antidepressant medications (SSRIs like fluoxetine)"
+    ]
+  },
+  "diabetes": {
+    "symptoms": [
+      "feeling very thirsty",
+      "needing to urinate more often than usual",
+      "blurred vision",
+      "feeling tired",
+      "losing weight unintentionally"
+    ],
+    "causes": [
+      "being overweight",
+      "not getting enough exercise",
+      "genetics"
+    ],
+    "treatment": [
+      "healthy lifestyle",
+      "insulin injections (for type 1)",
+      "medications like metformin, sulfonylureas, SGLT-2 inhibitors",
+      "blood pressure medications",
+      "statins"
+    ]
+  },
+  "diarrhoeal-disease": {
+    "symptoms": [
+      "passage of 3 or more loose or liquid stools per day",
+      "severe dehydration (lethargy/unconsciousness, sunken eyes, unable to drink or drink poorly, skin pinch goes back very slowly)",
+      "some dehydration (restlessness, irritability, sunken eyes, drinks eagerly, thirsty)"
+    ],
+    "causes": [
+      "contaminated food or drinking-water",
+      "poor hygiene",
+      "malnutrition"
+    ],
+    "treatment": [
+      "oral rehydration solution (ORS)",
+      "zinc supplements",
+      "rehydration with intravenous fluids in case of severe dehydration",
+      "nutrient-rich foods"
+    ]
+  },
+  "diphtheria": {
+    "symptoms": [
+      "sore throat",
+      "fever",
+      "swollen neck glands",
+      "weakness",
+      "thick, grey coating in nose, tonsils, and throat"
+    ],
+    "causes": [
+      "bacterium transmitted through respiratory droplets"
+    ],
+    "treatment": [
+      "diphtheria antitoxin",
+      "antibiotics",
+      "vaccination after recovery"
+    ]
+  },
+  "ebola-disease": {
+    "symptoms": [
+      "fever",
+      "fatigue",
+      "malaise",
+      "muscle pain",
+      "headache",
+      "sore throat",
+      "vomiting",
+      "diarrhoea",
+      "abdominal pain",
+      "rash",
+      "impaired kidney and liver functions",
+      "internal and external bleeding"
+    ],
+    "causes": [
+      "contact with infected animals (fruit bats, chimpanzees, gorillas, monkeys)",
+      "direct contact with blood or body fluids of infected persons"
+    ],
+    "treatment": [
+      "early intensive supportive care",
+      "rehydration",
+      "treatment of specific symptoms",
+      "mAb114 (ansuvimabTM) or REGN-EB3 (InmazebTM) for Ebola virus disease"
+    ]
+  },
+  "e-coli": {
+    "symptoms": [
+      "abdominal cramps",
+      "diarrhoea",
+      "bloody diarrhoea (haemorrhagic colitis)",
+      "fever",
+      "vomiting"
+    ],
+    "causes": [
+      "consumption of contaminated foods (raw or undercooked ground meat products, raw milk, contaminated raw vegetables and sprouts)"
+    ],
+    "treatment": [
+      "rest",
+      "hydration",
+      "monitoring for severe symptoms"
+    ]
+  },
+  "endometriosis": {
+    "Symptoms": [
+      "severe pain in the pelvis, especially during menstrual periods",
+      "pain during sex or when using the bathroom",
+      "trouble getting pregnant",
+      "chronic pelvic pain",
+      "heavy bleeding during periods or between periods",
+      "bloating or nausea",
+      "fatigue",
+      "depression or anxiety"
+    ],
+    "Causes": [
+      "Retrograde menstruation",
+      "Cellular metaplasia",
+      "Stem cells giving rise to the disease",
+      "Dependence on estrogen"
+    ],
+    "Treatment": [
+      "Non-steroidal anti-inflammatory drugs (NSAIDs) and analgesics",
+      "Hormonal medicines like GnRH-analogues and contraceptive methods",
+      "Fertility medicines and procedures",
+      "Surgery to remove lesions, adhesions, and scar tissues"
+    ]
+  },
+  "epilepsy": {
+    "Symptoms": [
+      "recurrent seizures",
+      "loss of awareness or consciousness",
+      "disturbances of movement, sensation, mood, or cognitive functions",
+      "higher rates of psychological conditions like anxiety and depression",
+      "physical problems such as fractures and bruising"
+    ],
+    "Causes": [
+      "brain damage from prenatal or perinatal causes",
+      "congenital abnormalities or genetic conditions",
+      "severe head injury",
+      "stroke",
+      "infections of the brain",
+      "certain genetic syndromes",
+      "brain tumor"
+    ],
+    "Treatment": [
+      "antiseizure medicines",
+      "surgery for patients who respond poorly to drug treatments"
+    ]
+  },
+  "hepatitis_a": {
+    "Symptoms": [
+      "fever",
+      "malaise",
+      "loss of appetite",
+      "diarrhoea",
+      "nausea",
+      "abdominal discomfort",
+      "dark-coloured urine",
+      "jaundice"
+    ],
+    "Causes": [
+      "ingestion of contaminated food and water",
+      "direct contact with an infectious person",
+      "poor sanitation and hygiene"
+    ],
+    "Treatment": [
+      "supportive care to relieve symptoms",
+      "ensuring adequate hydration and nutrition",
+      "avoiding unnecessary medications that affect the liver"
+    ]
+  },
+  "hepatitis_b": {
+    "Symptoms": [
+      "yellowing of the skin and eyes (jaundice)",
+      "dark urine",
+      "feeling very tired",
+      "nausea",
+      "vomiting",
+      "pain in the abdomen"
+    ],
+    "Causes": [
+      "mother-to-child transmission during birth",
+      "contact with infected blood or body fluids",
+      "unsafe injections or exposure to sharp instruments"
+    ],
+    "Treatment": [
+      "oral medicines like tenofovir or entecavir",
+      "liver transplantation in advanced cases"
+    ]
+  },
+  "hepatitis-c": {
+    "symptoms": [
+      "fever",
+      "feeling very tired",
+      "loss of appetite",
+      "nausea and vomiting",
+      "abdominal pain",
+      "dark urine",
+      "yellowing of the skin or eyes (jaundice)"
+    ],
+    "causes": [
+      "Hepatitis C virus (bloodborne)",
+      "Unsafe injection practices",
+      "Unsafe health care",
+      "Unscreened blood transfusions",
+      "Injection drug use",
+      "Sexual practices leading to blood exposure"
+    ],
+    "treatment": [
+      "Direct-acting antiviral medicines (DAAs)",
+      "Sofosbuvir and daclatasvir",
+      "Lifestyle changes (avoiding alcohol, maintaining healthy weight)"
+    ]
+  },
+  "hepatitis-d": {
+    "symptoms": [
+      "fever",
+      "fatigue",
+      "loss of appetite",
+      "nausea",
+      "vomiting",
+      "dark urine",
+      "yellow eyes (jaundice)",
+      "fulminant hepatitis (in severe cases)"
+    ],
+    "causes": [
+      "Hepatitis D virus (requires Hepatitis B virus for replication)",
+      "Co-infection with HBV",
+      "Bloodborne transmission",
+      "Sexual contact",
+      "Needle sharing",
+      "Unsafe blood transfusion"
+    ],
+    "treatment": [
+      "Pegylated interferon \u03b1 (PEG-IFN\u03b1)",
+      "Bulevirtide (entry inhibitor)",
+      "No effective treatment currently available"
+    ]
+  },
+  "hepatitis-e": {
+    "symptoms": [
+      "fever",
+      "reduced appetite (anorexia)",
+      "nausea and vomiting",
+      "abdominal pain",
+      "itching",
+      "skin rash",
+      "joint pain",
+      "jaundice",
+      "dark urine",
+      "pale stools",
+      "slightly enlarged, tender liver (hepatomegaly)"
+    ],
+    "causes": [
+      "Hepatitis E virus",
+      "Fecal-oral route (contaminated water)",
+      "Consumption of uncooked or undercooked meat",
+      "Zoonotic transmission (genotypes 3 and 4)"
+    ],
+    "treatment": [
+      "No specific antiviral treatment",
+      "Hospitalization for severe cases",
+      "Avoid unnecessary medications affecting liver function"
+    ]
+  },
+  "herpes-simplex-virus": {
+    "symptoms": [
+      "painful blisters or ulcers",
+      "fever",
+      "body aches",
+      "swollen lymph nodes",
+      "tingling, itching or burning before sores appear",
+      "cold sores (oral herpes)",
+      "genital sores (genital herpes)"
+    ],
+    "causes": [
+      "Herpes simplex virus type 1 (HSV-1)",
+      "Herpes simplex virus type 2 (HSV-2)",
+      "Skin-to-skin contact",
+      "Oral contact (HSV-1)",
+      "Sexual contact (HSV-2)"
+    ],
+    "treatment": [
+      "Acyclovir",
+      "Famciclovir",
+      "Valacyclovir",
+      "Pain relievers (paracetamol, naproxen, ibuprofen)",
+      "Topical anesthetics (benzocaine, lidocaine)",
+      "Suppressive therapy for recurrent episodes"
+    ]
+  },
+  "hiv-aids": {
+    "symptoms": [
+      "fever",
+      "headache",
+      "rash",
+      "sore throat",
+      "swollen lymph nodes",
+      "weight loss",
+      "diarrhoea",
+      "cough",
+      "tuberculosis (TB)",
+      "cryptococcal meningitis",
+      "severe bacterial infections",
+      "cancers (lymphomas, Kaposi's sarcoma)"
+    ],
+    "causes": [
+      "Human immunodeficiency virus (HIV)",
+      "Unprotected sexual contact",
+      "Sharing contaminated needles",
+      "Mother-to-child transmission",
+      "Blood transfusions",
+      "Organ transplants"
+    ],
+    "treatment": [
+      "Antiretroviral therapy (ART)",
+      "Combination of HIV medicines",
+      "Treatment for opportunistic infections",
+      "No cure currently available"
+    ]
+  },
+  "hypertension": {
+    "symptoms": [
+      "Often no symptoms",
+      "Severe headaches",
+      "Chest pain",
+      "Dizziness",
+      "Difficulty breathing",
+      "Nausea",
+      "Vomiting",
+      "Blurred vision",
+      "Anxiety",
+      "Confusion",
+      "Buzzing in the ears",
+      "Nosebleeds",
+      "Abnormal heart rhythm"
+    ],
+    "causes": [
+      "Older age",
+      "Genetics",
+      "Being overweight or obese",
+      "Physical inactivity",
+      "High-salt diet",
+      "Excessive alcohol consumption",
+      "Chronic stress"
+    ],
+    "treatment": [
+      "ACE inhibitors (enalapril, lisinopril)",
+      "Angiotensin-2 receptor blockers (losartan, telmisartan)",
+      "Calcium channel blockers (amlodipine, felodipine)",
+      "Diuretics (hydrochlorothiazide, chlorthalidone)",
+      "Lifestyle changes (healthy diet, exercise, weight loss)"
+    ]
+  },
+  "influenza-(seasonal)": {
+    "symptoms": [
+      "Sudden onset of fever",
+      "Cough (usually dry)",
+      "Headache",
+      "Muscle and joint pain",
+      "Severe malaise",
+      "Sore throat",
+      "Runny nose"
+    ],
+    "causes": [
+      "Influenza A or B viruses",
+      "Respiratory droplets from infected persons",
+      "Contact with contaminated surfaces"
+    ],
+    "treatment": [
+      "Rest",
+      "Fluid intake",
+      "Pain relievers",
+      "Antiviral medications (oseltamivir, zanamivir)",
+      "Hospitalization for severe cases"
+    ]
+  },
+  "lassa-fever": {
+    "symptoms": [
+      "Fever",
+      "General weakness",
+      "Headache",
+      "Malaise",
+      "Sore throat",
+      "Muscle pain",
+      "Chest pain",
+      "Nausea",
+      "Vomiting",
+      "Diarrhoea",
+      "Cough",
+      "Abdominal pain",
+      "Facial swelling (in severe cases)",
+      "Fluid in lung cavity (in severe cases)",
+      "Bleeding from mouth, nose, vagina or GI tract (in severe cases)"
+    ],
+    "causes": [
+      "Lassa virus",
+      "Contact with food/household items contaminated by rodent urine/feces",
+      "Direct contact with infected Mastomys rats",
+      "Person-to-person transmission via bodily fluids",
+      "Contaminated medical equipment"
+    ],
+    "treatment": [
+      "Early intensive supportive care",
+      "Fluid management",
+      "Symptomatic treatment",
+      "Ribavirin (effectiveness uncertain)",
+      "No approved antiviral drug currently available"
+    ]
+  },
+  "leishmaniasis": {
+    "symptoms": [
+      "Visceral leishmaniasis: irregular bouts of fever, weight loss, enlargement of the spleen and liver, and anaemia",
+      "Cutaneous leishmaniasis: skin lesions, mainly ulcers, on exposed parts of the body, life-long scars, serious disability or stigma",
+      "Mucocutaneous leishmaniasis: partial or total destruction of mucous membranes of the nose, mouth and throat"
+    ],
+    "causes": [
+      "Caused by protozoan parasites transmitted by the bite of infected female phlebotomine sandflies",
+      "Associated with malnutrition, population displacement, poor housing, weak immune system, lack of financial resources"
+    ],
+    "treatment": [
+      "Early diagnosis and effective prompt treatment reduce prevalence and prevent disabilities and death",
+      "Vector control to reduce or interrupt transmission",
+      "Effective disease surveillance to monitor and act during epidemics",
+      "Control of animal reservoir hosts tailored to local situation",
+      "Social mobilization and strengthening partnerships"
+    ]
+  },
+  "leprosy": {
+    "symptoms": [
+      "Affects skin and peripheral nerves",
+      "Progressive and permanent disabilities if left untreated"
+    ],
+    "causes": [
+      "Caused by bacteria Mycobacterium leprae",
+      "Transmitted via droplets from the nose and mouth during close and frequent contact with untreated cases"
+    ],
+    "treatment": [
+      "Curable with multidrug therapy (MDT)",
+      "Early diagnosis and prompt treatment can prevent disabilities"
+    ]
+  },
+  "listeriosis": {
+    "symptoms": [
+      "Noninvasive listeriosis: diarrhoea, fever, headache, muscle pain",
+      "Invasive listeriosis: fever, muscle pain, septicemia, meningitis"
+    ],
+    "causes": [
+      "Caused by bacterium Listeria monocytogenes",
+      "Transmitted through contaminated food or from pregnant women to unborn babies"
+    ],
+    "treatment": [
+      "Antibiotics for severe symptoms like meningitis",
+      "Prompt administration of antibiotics during pregnancy prevents infection of the fetus or newborn"
+    ]
+  },
+  "low-back-pain": {
+    "symptoms": [
+      "Dull ache or sharp pain between lower edge of ribs and buttock",
+      "Pain can radiate into legs, restrict movement, affect sleep, mood, and quality of life"
+    ],
+    "causes": [
+      "Non-specific LBP (90% of cases): no specific disease or structural reason identified",
+      "Specific LBP: caused by underlying disease, tissue damage, or referred from other organs"
+    ],
+    "treatment": [
+      "Physical therapies to improve muscle strength and mobility",
+      "Psychological and social support",
+      "Lifestyle changes: physical activity, healthy diet, good sleep habits",
+      "Medicines to reduce symptoms, combined with other treatments"
+    ]
+  },
+  "lung-cancer": {
+    "symptoms": [
+      "Cough that does not go away",
+      "Chest pain",
+      "Shortness of breath",
+      "Coughing up blood",
+      "Fatigue",
+      "Weight loss with no known cause",
+      "Lung infections that keep coming back"
+    ],
+    "causes": [
+      "Smoking tobacco (85% of cases)",
+      "Exposure to secondhand smoke, occupational hazards (asbestos, radon, certain chemicals), air pollution, hereditary cancer syndromes, chronic lung diseases"
+    ],
+    "treatment": [
+      "Surgery",
+      "Radiotherapy",
+      "Chemotherapy",
+      "Targeted therapy",
+      "Immunotherapy",
+      "Supportive care for symptom management and quality of life"
+    ]
+  },
+  "lymphatic-filariasis": {
+    "symptoms": [
+      "Asymptomatic infections cause hidden damage to lymphatic system",
+      "Chronic conditions: lymphoedema, elephantiasis, hydrocele",
+      "Acute episodes of local inflammation involving skin, lymph nodes, and lymphatic vessels"
+    ],
+    "causes": [
+      "Caused by infection with nematodes (roundworms) of the family Filariodidea",
+      "Transmitted through bites of infected mosquitoes"
+    ],
+    "treatment": [
+      "Mass drug administration (MDA) with safe medicine combinations",
+      "Morbidity management: hygiene, skin care, exercises, elevation of affected limbs",
+      "Surgery for hydrocele"
+    ]
+  },
+  "malaria": {
+    "symptoms": [
+      "Fever, headache, chills",
+      "Extreme tiredness and fatigue",
+      "Impaired consciousness",
+      "Multiple convulsions",
+      "Difficulty breathing",
+      "Dark or bloody urine",
+      "Jaundice",
+      "Abnormal bleeding"
+    ],
+    "causes": [
+      "Caused by Plasmodium parasites transmitted through bites of infected female Anopheles mosquitoes"
+    ],
+    "treatment": [
+      "Early diagnosis and treatment with antimalarial medicines",
+      "Artemisinin-based combination therapy for P. falciparum malaria",
+      "Chloroquine for P. vivax in areas where it is still effective",
+      "Primaquine to prevent relapses of P. vivax and P. ovale infections"
+    ]
+  },
+  "malnutrition": {
+    "symptoms": [
+      "Undernutrition: wasting (low weight-for-height), stunting (low height-for-age), underweight (low weight-for-age)",
+      "Micronutrient deficiencies: lack of important vitamins and minerals",
+      "Overweight, obesity: abnormal or excessive fat accumulation"
+    ],
+    "causes": [
+      "Deficiencies, excesses, or imbalances in intake of energy and/or nutrients",
+      "Poor socioeconomic conditions, inadequate food intake, lack of access to nutritious food"
+    ],
+    "treatment": [
+      "Nutritional support and supplementation",
+      "Treatment of underlying conditions",
+      "Promotion of healthy diets and lifestyles"
+    ]
+  },
+  "marburg-virus-disease": {
+    "symptoms": [
+      "High fever, severe headache, severe malaise",
+      "Muscle aches and pains",
+      "Severe watery diarrhoea, abdominal pain, cramping, nausea, vomiting",
+      "Non-itchy rash",
+      "Haemorrhagic manifestations: fresh blood in vomitus and faeces, bleeding from nose, gums, vagina"
+    ],
+    "causes": [
+      "Caused by Marburg virus (MARV) and Ravn virus (RAVV)",
+      "Transmitted through contact with infected animals (fruit bats) or humans, contaminated materials"
+    ],
+    "treatment": [
+      "Early intensive supportive care: rehydration, symptomatic treatment",
+      "No approved vaccines or antiviral treatments currently available"
+    ]
+  },
+  "measles": {
+    "symptoms": [
+      "High fever",
+      "Cough",
+      "Runny nose",
+      "Red and watery eyes",
+      "Small white spots inside cheeks",
+      "Rash starting on face and upper neck, spreading to hands and feet"
+    ],
+    "causes": [
+      "Caused by measles virus",
+      "Highly contagious, spreads through respiratory droplets or direct contact"
+    ],
+    "treatment": [
+      "No specific treatment",
+      "Supportive care: hydration, treatment of symptoms",
+      "Vitamin A supplements to prevent eye damage and blindness"
+    ]
+  },
+  "meningitis": {
+    "symptoms": [
+      "Fever",
+      "Neck stiffness",
+      "Confusion or altered mental status",
+      "Headache",
+      "Sensitivity to light",
+      "Nausea and vomiting",
+      "Seizures, coma in severe cases"
+    ],
+    "causes": [
+      "Bacterial: Neisseria meningitidis, Streptococcus pneumoniae, Haemophilus influenzae, Streptococcus agalactiae",
+      "Viral: enteroviruses, herpesviruses, arboviruses",
+      "Fungal: Cryptococcus spp.",
+      "Parasitic: some species of amoebae"
+    ],
+    "treatment": [
+      "Antibiotic treatment for bacterial meningitis (started immediately)",
+      "Supportive care: hydration, pain relief, fever management",
+      "Vaccines available for some bacterial causes"
+    ]
+  },
+  "mpox": {
+    "symptoms": [
+      "Rash",
+      "Fever",
+      "Sore throat",
+      "Headache",
+      "Muscle aches",
+      "Back pain",
+      "Low energy",
+      "Swollen lymph nodes"
+    ],
+    "causes": [
+      "Caused by monkeypox virus (MPXV)",
+      "Transmitted through close contact with infected persons or animals, contaminated materials"
+    ],
+    "treatment": [
+      "Supportive care for symptoms: pain and fever management, hydration, skin care",
+      "Vaccination for prevention (pre- and post-exposure)",
+      "No proven effective antiviral treatment currently available"
+    ]
+  },
+  "diseases": [
+    {
+      "name": "multi-drug-resistant-gonorrhoea",
+      "symptoms": [],
+      "causes": [
+        "Resistance to many treatment options including penicillins, sulphonamides, tetracyclines, quinolones, macrolides, and cephalosporins.",
+        "Unrestricted access to antimicrobials, inappropriate selection and overuse of antibiotics, and poor quality antibiotics.",
+        "Genetic mutations within the organism."
+      ],
+      "treatment": []
+    },
+    {
+      "name": "multiple-sclerosis",
+      "symptoms": [
+        "Vision problems",
+        "Tiredness",
+        "Trouble walking and keeping balance",
+        "Numbness or weakness in the arms and legs",
+        "Muscle stiffness",
+        "Depression",
+        "Problems with sexual function or urination",
+        "Feeling very tired."
+      ],
+      "causes": [
+        "Autoimmune attack on myelin, the fatty insulation that surrounds the nerves in the brain and spinal cord.",
+        "Genetic and environmental factors."
+      ],
+      "treatment": [
+        "Disease modifying therapies (DMTs) to slow disease progression and prevent relapses.",
+        "Steroids for short-term treatment of relapses.",
+        "Medicines to reduce symptoms like fatigue, muscle tightening, depression, and urinary or sexual problems.",
+        "Rehabilitation to improve functioning and reduce muscle stiffness and spasms."
+      ]
+    },
+    {
+      "name": "musculoskeletal-conditions",
+      "symptoms": [
+        "Pain (often persistent)",
+        "Limitations in mobility and dexterity."
+      ],
+      "causes": [
+        "Injury to the joint.",
+        "Pre-existing joint diseases like rheumatoid arthritis or gout.",
+        "Specific metabolic diseases like diabetes.",
+        "Obesity.",
+        "Genetics.",
+        "Sociodemographic factors (age, female sex)."
+      ],
+      "treatment": []
+    },
+    {
+      "name": "mycetoma",
+      "symptoms": [
+        "Painless subcutaneous mass",
+        "Multiple sinuses",
+        "Discharge containing grains."
+      ],
+      "causes": [
+        "Traumatic inoculation of fungi or bacteria into the subcutaneous tissue."
+      ],
+      "treatment": [
+        "Antibiotics for bacterial mycetoma.",
+        "Antifungal drugs and surgery for fungal mycetoma."
+      ]
+    },
+    {
+      "name": "mycotoxins",
+      "symptoms": [
+        "Acute poisoning symptoms",
+        "Immune deficiency",
+        "Cancer (long-term effects)."
+      ],
+      "causes": [
+        "Consumption of food contaminated with mycotoxins produced by certain moulds."
+      ],
+      "treatment": []
+    },
+    {
+      "name": "natural-toxins-in-food",
+      "symptoms": [
+        "Acute poisoning ranging from allergic reactions to severe stomachache and diarrhoea.",
+        "Death in severe cases.",
+        "Long-term effects on the immune, reproductive or nervous systems, and cancer."
+      ],
+      "causes": [
+        "Consumption of food containing natural toxins produced by plants, moulds, or other organisms."
+      ],
+      "treatment": []
+    },
+    {
+      "name": "newborn-mortality",
+      "symptoms": [
+        "Feeding problems",
+        "Reduced activity",
+        "Difficult breathing",
+        "Fever",
+        "Fits or convulsions",
+        "Feeling cold."
+      ],
+      "causes": [
+        "Premature birth",
+        "Birth complications (birth asphyxia/trauma)",
+        "Neonatal infections",
+        "Congenital anomalies."
+      ],
+      "treatment": [
+        "Thermal protection (e.g., skin-to-skin contact).",
+        "Hygienic umbilical cord and skin care.",
+        "Early and exclusive breastfeeding.",
+        "Assessment for signs of serious health problems.",
+        "Preventive treatment (e.g., immunization, vitamin K)."
+      ]
+    },
+    {
+      "name": "nipah-virus",
+      "symptoms": [
+        "Fever",
+        "Headaches",
+        "Myalgia (muscle pain)",
+        "Vomiting",
+        "Sore throat.",
+        "Dizziness",
+        "Drowsiness",
+        "Altered consciousness",
+        "Neurological signs indicating acute encephalitis.",
+        "Atypical pneumonia and severe respiratory problems."
+      ],
+      "causes": [
+        "Transmission from animals (bats or pigs) or contaminated foods.",
+        "Direct human-to-human transmission."
+      ],
+      "treatment": [
+        "Intensive supportive care for severe respiratory and neurologic complications."
+      ]
+    },
+    {
+      "name": "noma",
+      "symptoms": [
+        "Severe gangrenous disease of the mouth and face.",
+        "Soft tissue lesion of the gums progressing to acute necrotizing gingivitis."
+      ],
+      "causes": [
+        "Non-specific polymicrobial organisms.",
+        "Malnutrition, immunosuppression, underlying infections, poor oral health, and extreme poverty."
+      ],
+      "treatment": [
+        "Basic hygiene, antibiotics, and improved nutrition for early stages.",
+        "Surgical intervention for advanced cases."
+      ]
+    },
+    {
+      "name": "noncommunicable-diseases",
+      "symptoms": [],
+      "causes": [
+        "Unhealthy diets",
+        "Physical inactivity",
+        "Exposure to tobacco smoke",
+        "Harmful use of alcohol",
+        "Air pollution."
+      ],
+      "treatment": []
+    },
+    {
+      "name": "obesity-and-overweight",
+      "symptoms": [
+        "Pain",
+        "Swelling",
+        "Stiffness",
+        "Trouble moving the affected joint."
+      ],
+      "causes": [
+        "Imbalance of energy intake (diet) and energy expenditure (physical activity).",
+        "Obesogenic environments, psycho-social factors, and genetic variants."
+      ],
+      "treatment": [
+        "Healthy diet and regular physical activity.",
+        "Medicines like non-steroidal anti-inflammatory drugs (NSAIDs) for pain control.",
+        "Joint replacement surgery for severely affected joints."
+      ]
+    },
+    {
+      "name": "opioid-overdose",
+      "symptoms": [
+        "Pinpoint pupils",
+        "Unconsciousness",
+        "Difficulties with breathing."
+      ],
+      "causes": [
+        "Overdose of opioids such as heroin, morphine, codeine, fentanyl, methadone, and tramadol."
+      ],
+      "treatment": [
+        "Administration of naloxone to reverse the effects of overdose.",
+        "Basic life support."
+      ]
+    },
+    {
+      "name": "oral-health",
+      "symptoms": [
+        "Pain",
+        "Discomfort",
+        "Disfigurement.",
+        "Tooth decay",
+        "Gum disease",
+        "Tooth loss",
+        "Oral cancers."
+      ],
+      "causes": [
+        "Poor oral hygiene",
+        "High sugar consumption",
+        "Tobacco use",
+        "Alcohol use.",
+        "Inadequate exposure to fluoride."
+      ],
+      "treatment": [
+        "Twice-daily tooth brushing with fluoride-containing toothpaste.",
+        "Professional dental care for advanced conditions."
+      ]
+    },
+    {
+      "name": "oropouche-virus-disease",
+      "symptoms": [
+        "Fever",
+        "Headache",
+        "Joint pain",
+        "Muscle pain",
+        "Chills",
+        "Nausea",
+        "Vomiting",
+        "Rash."
+      ],
+      "causes": [
+        "Bite of infected biting midges or mosquitoes."
+      ],
+      "treatment": [
+        "Supportive care to relieve symptoms."
+      ]
+    },
+    {
+      "name": "osteoarthritis",
+      "symptoms": [
+        "Pain",
+        "Swelling",
+        "Stiffness",
+        "Trouble moving the affected joint."
+      ],
+      "causes": [
+        "Injury to the joint.",
+        "Pre-existing joint diseases like rheumatoid arthritis or gout.",
+        "Specific metabolic diseases like diabetes.",
+        "Obesity.",
+        "Genetics.",
+        "Sociodemographic factors (age, female sex)."
+      ],
+      "treatment": [
+        "Exercise to strengthen muscles and improve mobility.",
+        "Braces and assistive technologies.",
+        "Medicines like non-steroidal anti-inflammatory drugs (NSAIDs).",
+        "Joint replacement surgery for severe cases."
+      ]
+    }
+  ],
+  "palliative-care": {
+    "symptoms": [
+      "Pain",
+      "Difficulty in breathing"
+    ],
+    "causes": [
+      "Life-threatening illnesses (e.g., cardiovascular diseases, cancer, chronic respiratory diseases, AIDS, diabetes)",
+      "Other conditions requiring palliative care (e.g., kidney failure, chronic liver disease, multiple sclerosis, Parkinson\u2019s disease, dementia)"
+    ],
+    "treatment": [
+      "Opioids for pain management",
+      "Team approach to support patients and caregivers",
+      "Bereavement counselling",
+      "Addressing physical, psychological, social, and spiritual needs"
+    ],
+    "when_to_call_a_doctor": [
+      "When experiencing severe pain or breathlessness",
+      "When needing support for emotional or practical challenges"
+    ]
+  },
+  "parkinson-disease": {
+    "symptoms": [
+      "Slow movement",
+      "Tremor",
+      "Involuntary movement",
+      "Rigidity",
+      "Trouble walking",
+      "Imbalance",
+      "Cognitive impairment",
+      "Mental health disorders",
+      "Dementia",
+      "Sleep disorders",
+      "Pain",
+      "Sensory disturbances"
+    ],
+    "causes": [
+      "Unknown cause",
+      "Family history of the disease",
+      "Exposure to air pollution, pesticides, and solvents"
+    ],
+    "treatment": [
+      "Levodopa/carbidopa",
+      "Anticholinergics",
+      "Deep brain stimulation",
+      "Rehabilitation (physiotherapy, strength training, gait and balance training, hydrotherapy)"
+    ],
+    "when_to_call_a_doctor": [
+      "When experiencing worsening motor or non-motor symptoms",
+      "When needing adjustments to treatment"
+    ]
+  },
+  "patient-safety": {
+    "symptoms": [
+      "Medication errors",
+      "Surgical errors",
+      "Health care-associated infections",
+      "Sepsis",
+      "Diagnostic errors",
+      "Patient falls",
+      "Venous thromboembolism",
+      "Pressure ulcers",
+      "Unsafe transfusion practices",
+      "Patient misidentification",
+      "Unsafe injection practices"
+    ],
+    "causes": [
+      "System and organizational factors (e.g., inadequate processes, resource constraints)",
+      "Technological factors (e.g., issues with health information systems)",
+      "Human factors (e.g., communication breakdown, fatigue)",
+      "Patient-related factors (e.g., limited health literacy)",
+      "External factors (e.g., absence of policies, economic pressures)"
+    ],
+    "treatment": [
+      "Ensuring leadership commitment to safety",
+      "Creating a culture of safety",
+      "Improving teamwork and communication",
+      "Engaging patients and families in decision-making",
+      "Establishing incident reporting systems"
+    ],
+    "when_to_call_a_doctor": [
+      "When experiencing harm or adverse events in health care",
+      "When noticing unsafe practices"
+    ]
+  },
+  "pesticide-residues-in-food": {
+    "symptoms": [
+      "Acute poisoning",
+      "Chronic health effects (e.g., cancer, adverse reproductive effects)"
+    ],
+    "causes": [
+      "Exposure to pesticides at work, home, or garden",
+      "Consumption of food with pesticide residues"
+    ],
+    "treatment": [
+      "Avoiding exposure to pesticides",
+      "Wearing protective gear (gloves, face masks)",
+      "Washing or peeling fruits and vegetables"
+    ],
+    "when_to_call_a_doctor": [
+      "When experiencing symptoms of poisoning",
+      "When exposed to large quantities of pesticides"
+    ]
+  },
+  "physical-activity": {
+    "symptoms": [
+      "Increased risk of noncommunicable diseases (e.g., cardiovascular diseases, cancer, diabetes)",
+      "Symptoms of depression and anxiety"
+    ],
+    "causes": [
+      "Physical inactivity",
+      "Sedentary behaviour"
+    ],
+    "treatment": [
+      "Regular physical activity (e.g., walking, cycling, sports)",
+      "Reducing sedentary behaviour"
+    ],
+    "when_to_call_a_doctor": [
+      "When experiencing health issues due to inactivity",
+      "When needing guidance on exercise routines"
+    ]
+  },
+  "plague": {
+    "symptoms": [
+      "Sudden onset of fever",
+      "Chills",
+      "Head and body aches",
+      "Weakness",
+      "Vomiting and nausea",
+      "Painful swollen lymph nodes (buboes)",
+      "Open sores filled with pus (in advanced stages)"
+    ],
+    "causes": [
+      "Infection with Yersinia pestis bacteria",
+      "Bite of infected fleas",
+      "Direct contact with infected tissues",
+      "Inhalation of infected respiratory droplets"
+    ],
+    "treatment": [
+      "Antibiotics (effective if administered early)",
+      "Supportive therapy"
+    ],
+    "when_to_call_a_doctor": [
+      "When experiencing symptoms after exposure to plague",
+      "When in contact with infected animals or fleas"
+    ]
+  },
+  "pneumonia": {
+    "symptoms": [
+      "Fever",
+      "Cough",
+      "Difficulty breathing",
+      "Fast breathing",
+      "Lower chest wall indrawing",
+      "Wheezing (more common in viral infections)"
+    ],
+    "causes": [
+      "Streptococcus pneumoniae (most common bacterial cause)",
+      "Haemophilus influenzae type b",
+      "Respiratory syncytial virus (most common viral cause)",
+      "Pneumocystis jiroveci (in HIV-infected infants)"
+    ],
+    "treatment": [
+      "Antibiotics (e.g., amoxicillin dispersible tablets)",
+      "Hospitalization for severe cases"
+    ],
+    "when_to_call_a_doctor": [
+      "When a child has cough or difficulty breathing",
+      "When symptoms worsen or persist"
+    ]
+  },
+  "podoconiosis-(non-filarial-lymphoedema)": {
+    "symptoms": [
+      "Burning sensation and itching on the back of the feet",
+      "Skin thickening",
+      "Papillomatous growths around the feet and heel",
+      "Foot and lower leg swelling (oedema)",
+      "Nodules and maceration between toes"
+    ],
+    "causes": [
+      "Long-term exposure of bare feet to irritant soils",
+      "Genetic and environmental factors"
+    ],
+    "treatment": [
+      "Foot hygiene",
+      "Compression therapy",
+      "Exercises and elevation",
+      "Psychosocial and mental health support",
+      "Use of shoes to reduce exposure to irritant soil"
+    ],
+    "when_to_call_a_doctor": [
+      "When noticing early signs of leg swelling",
+      "When experiencing acute attacks or infections"
+    ]
+  },
+  "poliomyelitis": {
+    "symptoms": [
+      "Fever",
+      "Fatigue",
+      "Headache",
+      "Vomiting",
+      "Stiffness of the neck",
+      "Pain in the limbs",
+      "Irreversible paralysis (usually in the legs)"
+    ],
+    "causes": [
+      "Infection with poliovirus",
+      "Person-to-person spread through faecal-oral route or contaminated water/food"
+    ],
+    "treatment": [
+      "No cure, only prevention through vaccination",
+      "Oral polio vaccine (OPV)",
+      "Inactivated polio vaccine (IPV)"
+    ],
+    "when_to_call_a_doctor": [
+      "When experiencing symptoms of polio",
+      "When exposed to someone with polio"
+    ]
+  },
+  "polycystic-ovary-syndrome": {
+    "symptoms": [
+      "Irregular periods",
+      "Infertility",
+      "Acne or oily skin",
+      "Excessive hair on the face or body",
+      "Male-pattern baldness or hair thinning",
+      "Weight gain, especially around the belly"
+    ],
+    "causes": [
+      "Unknown cause",
+      "Family history of PCOS or type 2 diabetes"
+    ],
+    "treatment": [
+      "Lifestyle changes (healthy diet, exercise)",
+      "Birth control medicines",
+      "Medicines for acne or unwanted hair growth",
+      "Fertility treatments (e.g., in-vitro fertilization)"
+    ],
+    "when_to_call_a_doctor": [
+      "When experiencing irregular periods or infertility",
+      "When needing management for symptoms like acne or hair growth"
+    ]
+  },
+  "post-covid-19-condition-(long-covid)": {
+    "symptoms": [
+      "Fatigue",
+      "Aches and pains in muscles or joints",
+      "Breathlessness",
+      "Headaches",
+      "Difficulty in thinking or concentrating",
+      "Alterations in taste",
+      "Impaired sleep",
+      "Depression and anxiety"
+    ],
+    "causes": [
+      "Previous infection with SARS-CoV-2",
+      "Persistence of virus in the body",
+      "Altered immune responses and autoimmunity"
+    ],
+    "treatment": [
+      "Rehabilitation",
+      "Medications for symptomatic relief",
+      "Self-management strategies (energy conservation, rest)"
+    ],
+    "when_to_call_a_doctor": [
+      "When symptoms persist or worsen after COVID-19",
+      "When experiencing severe or debilitating symptoms"
+    ]
+  },
+  "post-traumatic-stress-disorder": {
+    "symptoms": [
+      "Re-experiencing the traumatic event (e.g., intrusive memories, nightmares, flashbacks)",
+      "Avoidance of reminders of the event",
+      "Heightened sense of danger",
+      "Hypervigilance",
+      "Easily startled",
+      "Depression",
+      "Anxiety",
+      "Substance use disorders"
+    ],
+    "causes": [
+      "Exposure to potentially traumatic events (e.g., war, accidents, natural disasters, sexual violence)",
+      "Family history of mental health conditions",
+      "Younger age",
+      "Lower levels of education"
+    ],
+    "treatment": [
+      "Cognitive behavioural therapy with a trauma focus",
+      "Eye movement desensitization and reprocessing (EMDR)",
+      "Exposure techniques"
+    ],
+    "when_to_call_a_doctor": [
+      "When experiencing distressing symptoms after a traumatic event",
+      "When symptoms interfere with daily life"
+    ]
+  },
+  "pre-eclampsia": {
+    "symptoms": [
+      "Persistent high blood pressure",
+      "Proteinuria",
+      "Severe headaches",
+      "Visual disturbances (e.g., blurred vision, seeing spots)",
+      "Upper abdominal pain",
+      "Nausea and vomiting (after the first trimester)",
+      "Swelling in the hands and face"
+    ],
+    "causes": [
+      "First-time pregnancies",
+      "Multiple pregnancies",
+      "Obesity",
+      "Pre-existing conditions (e.g., hypertension, diabetes, kidney disease)",
+      "Family history of pre-eclampsia"
+    ],
+    "treatment": [
+      "Magnesium sulfate to prevent seizures",
+      "Antihypertensive medications",
+      "Corticosteroids for fetal lung maturity",
+      "Close monitoring of maternal and fetal health"
+    ],
+    "when_to_call_a_doctor": [
+      "When experiencing symptoms during pregnancy",
+      "When blood pressure readings are high"
+    ]
+  },
+  "preterm-birth": {
+    "symptoms": [
+      "Premature birth (before 37 weeks of gestation)",
+      "Complications in newborns (e.g., respiratory distress, infections)"
+    ],
+    "causes": [
+      "Spontaneous preterm labour",
+      "Medical indications (e.g., infections, pregnancy complications)"
+    ],
+    "treatment": [
+      "Antenatal steroids",
+      "Tocolytic treatments to delay labour",
+      "Antibiotics for preterm prolabour rupture of membranes (PPROM)",
+      "Kangaroo mother care",
+      "Early initiation of breastfeeding"
+    ],
+    "when_to_call_a_doctor": [
+      "When signs of preterm labour occur",
+      "When experiencing pregnancy complications"
+    ]
+  },
+  "rabies": {
+    "symptoms": [
+      "Fever",
+      "Pain",
+      "Tingling or burning at the wound site",
+      "Hyperactivity",
+      "Excitable behaviour",
+      "Hallucinations",
+      "Lack of coordination",
+      "Hydrophobia (fear of water)",
+      "Aerophobia (fear of drafts)",
+      "Muscle paralysis (in paralytic rabies)"
+    ],
+    "causes": [
+      "Infection with rabies virus",
+      "Bite or scratch from an infected animal (e.g., dog)",
+      "Direct contact with infected saliva"
+    ],
+    "treatment": [
+      "Post-exposure prophylaxis (PEP): thorough wound washing, rabies vaccine, rabies immunoglobulins (RIG)"
+    ],
+    "when_to_call_a_doctor": [
+      "Immediately after a bite or scratch from a potentially rabid animal",
+      "When experiencing symptoms of rabies"
+    ]
+  },
+  "refugee-and-migrant-health": {
+    "symptoms": [
+      "Worse health outcomes due to barriers (e.g., language, discrimination)",
+      "Higher risk for noncommunicable diseases",
+      "Poor mental health (e.g., anxiety, depression, PTSD)"
+    ],
+    "causes": [
+      "Experiences in country of origin (e.g., war, conflict, natural disasters)",
+      "Migration journey challenges",
+      "Living and working conditions in host country"
+    ],
+    "treatment": [
+      "Access to health services",
+      "Mental health support",
+      "Social and economic inclusion"
+    ],
+    "when_to_call_a_doctor": [
+      "When experiencing health issues due to migration",
+      "When needing access to health services"
+    ]
+  },
+  "refugee-and-migrant-mental-health": {
+    "symptoms": [
+      "depression",
+      "anxiety",
+      "post-traumatic stress disorder (PTSD)",
+      "suicide",
+      "psychoses"
+    ],
+    "causes": [
+      "exposure to adversity",
+      "experiences in country of origin",
+      "migration journey",
+      "host country\u2019s entry and integration policies",
+      "living and working conditions"
+    ],
+    "treatment": [
+      "culturally sensitive and integrated mental health care",
+      "social support",
+      "legal assistance",
+      "community engagement"
+    ]
+  },
+  "rehabilitation": {
+    "symptoms": [
+      "difficulty with thinking, seeing, hearing, communicating, eating, or moving around"
+    ],
+    "treatment": [
+      "speech and language training",
+      "physical exercise training",
+      "modifying home environment",
+      "education on safe exercise",
+      "prosthetic training",
+      "positioning and splinting techniques",
+      "prescribing medicine",
+      "psychological therapies",
+      "social skills training",
+      "vision loss training"
+    ]
+  },
+  "respiratory-syncytial-virus-(rsv)": {
+    "symptoms": [
+      "runny nose",
+      "sore throat",
+      "headache",
+      "fatigue",
+      "fever",
+      "cough",
+      "shortness of breath",
+      "fast breathing",
+      "bronchospasm",
+      "wheezing"
+    ],
+    "treatment": [
+      "supportive care",
+      "nasal suction of secretions",
+      "intravenous fluids",
+      "supplemental oxygen",
+      "maternal vaccine",
+      "long-acting monoclonal antibody"
+    ]
+  },
+  "rheumatic-heart-disease": {
+    "symptoms": [
+      "fever",
+      "painful joints",
+      "fatigue",
+      "jerky uncontrollable body movements (chorea)",
+      "painless nodules under the skin",
+      "rash",
+      "heart murmur",
+      "chest pain or discomfort",
+      "shortness of breath",
+      "swelling of stomach, hands or feet",
+      "rapid or irregular heartbeat"
+    ],
+    "causes": [
+      "streptococcal pharyngitis or strep throat",
+      "immune system reaction causing inflammation and scarring of heart valves"
+    ],
+    "treatment": [
+      "surgery to replace or repair damaged valves",
+      "medication for heart failure or heart rhythm abnormalities",
+      "blood thinners"
+    ]
+  },
+  "rheumatoid-arthritis": {
+    "symptoms": [
+      "chronic pain",
+      "stiffness",
+      "tenderness",
+      "heat",
+      "swelling in joints",
+      "fatigue",
+      "fever",
+      "poor sleep quality",
+      "loss of appetite",
+      "depressive symptoms"
+    ],
+    "causes": [
+      "unknown",
+      "risk factors include smoking, obesity, exposure to air pollution",
+      "genetics",
+      "female gender",
+      "age"
+    ],
+    "treatment": [
+      "non-steroidal anti-inflammatory drugs (NSAIDs)",
+      "glucocorticoids",
+      "disease-modifying antirheumatic drugs (DMARDs)",
+      "biological agents",
+      "orthopaedic surgery",
+      "rehabilitation",
+      "assistive technologies"
+    ]
+  },
+  "rift-valley-fever": {
+    "symptoms": [
+      "flu-like fever",
+      "muscle and joint pain",
+      "headache",
+      "neck stiffness",
+      "sensitivity to light",
+      "loss of appetite",
+      "vomiting",
+      "blurred or decreased vision",
+      "intense headache",
+      "memory loss",
+      "hallucinations",
+      "confusion",
+      "disorientation",
+      "vertigo",
+      "convulsions",
+      "lethargy",
+      "coma",
+      "vomiting blood",
+      "blood in faeces",
+      "purpuric rash",
+      "bleeding from nose or gums",
+      "menorrhagia"
+    ],
+    "causes": [
+      "contact with blood or organs of infected animals",
+      "bites of infected mosquitoes"
+    ],
+    "treatment": [
+      "no specific treatment for mild cases",
+      "early intensive supportive care",
+      "fluid management",
+      "treatment of specific symptoms",
+      "inactivated vaccine (experimental)"
+    ]
+  },
+  "ringworm-(tinea)": {
+    "symptoms": [
+      "itching",
+      "redness",
+      "ring-shaped rash",
+      "hair loss (scalp ringworm)",
+      "scaling of skin (foot ringworm)",
+      "thick, discoloured, brittle nails (nail ringworm)"
+    ],
+    "causes": [
+      "direct contact with infected person or animal",
+      "indirect contact with contaminated objects or surfaces",
+      "environmental contact with fungi in soil"
+    ],
+    "treatment": [
+      "topical antifungal medications (clotrimazole, miconazole, econazole, ciclopirox, terbinafine)",
+      "oral antifungal medications (griseofulvin, terbinafine, itraconazole)"
+    ]
+  },
+  "road-traffic-injuries": {
+    "symptoms": [
+      "injuries from crashes",
+      "disability",
+      "death"
+    ],
+    "causes": [
+      "speeding",
+      "driving under influence of alcohol or drugs",
+      "distractions (e.g., mobile phones)",
+      "poor road design",
+      "unsafe vehicles"
+    ],
+    "treatment": [
+      "emergency care",
+      "post-crash care",
+      "rehabilitation"
+    ]
+  },
+  "rubella": {
+    "symptoms": [
+      "mild fever",
+      "rash",
+      "muscle and joint pain",
+      "headache",
+      "swollen lymph glands"
+    ],
+    "causes": [
+      "rubella virus infection"
+    ],
+    "treatment": [
+      "vaccination"
+    ]
+  },
+  "salmonella-(non-typhoidal)": {
+    "symptoms": [
+      "fever",
+      "abdominal pain",
+      "diarrhoea",
+      "nausea",
+      "vomiting"
+    ],
+    "causes": [
+      "consumption of contaminated food of animal origin",
+      "contact with infected animals",
+      "person-to-person transmission"
+    ],
+    "treatment": [
+      "electrolyte replacement",
+      "rehydration",
+      "antimicrobial therapy for high-risk groups"
+    ]
+  },
+  "sand-and-dust-storms": {
+    "symptoms": [
+      "respiratory issues",
+      "cardiovascular problems"
+    ],
+    "causes": [
+      "exposure to airborne mineral dust particles",
+      "deforestation",
+      "land degradation",
+      "unsustainable land management",
+      "climate change",
+      "water mismanagement"
+    ],
+    "treatment": [
+      "monitoring and early warning systems",
+      "public health response"
+    ]
+  },
+  "scabies": {
+    "symptoms": [
+      "severe itch",
+      "itchy lines (linear burrows)",
+      "bumps (papules)",
+      "enflamed bumps on male genitalia and female breasts",
+      "rash in infants and small children"
+    ],
+    "causes": [
+      "parasitic infestation by Sarcoptes scabiei var hominis"
+    ],
+    "treatment": [
+      "topical medications (5% permethrin cream, 0.5% malathion, 10\u201325% benzyl benzoate emulsion, 5\u201310% sulphur ointment)",
+      "oral ivermectin",
+      "antiseptics or antibiotics for bacterial infections"
+    ]
+  },
+  "schistosomiasis": {
+    "symptoms": [
+      "abdominal pain",
+      "diarrhoea",
+      "blood in stool",
+      "liver enlargement",
+      "haematuria (blood in urine)",
+      "kidney damage",
+      "fibrosis of bladder and ureter",
+      "genital lesions",
+      "vaginal bleeding",
+      "pain during sexual intercourse",
+      "nodules in vulva"
+    ],
+    "causes": [
+      "infection by Schistosoma parasites"
+    ],
+    "treatment": [
+      "praziquantel"
+    ]
+  },
+  "schizophrenia": {
+    "symptoms": [
+      "persistent delusions",
+      "persistent hallucinations",
+      "disorganized thinking",
+      "highly disorganized behaviour",
+      "limited speech",
+      "restricted emotions",
+      "social withdrawal",
+      "cognitive impairments"
+    ],
+    "causes": [
+      "interaction between genes and environmental factors",
+      "psychosocial factors",
+      "heavy cannabis use"
+    ],
+    "treatment": [
+      "medication",
+      "psychoeducation",
+      "family interventions",
+      "cognitive-behavioural therapy",
+      "psychosocial rehabilitation",
+      "supported housing",
+      "supported employment"
+    ]
+  },
+  "sepsis": {
+    "symptoms": [
+      "fever or low temperature",
+      "shivering",
+      "confusion",
+      "difficulty breathing",
+      "clammy and sweaty skin",
+      "extreme body pain",
+      "high heart rate",
+      "weak pulse",
+      "low blood pressure",
+      "low urine output",
+      "fast breathing (in children)",
+      "convulsions (in children)",
+      "pale skin (in children)",
+      "lethargy (in children)"
+    ],
+    "causes": [
+      "bacterial infections",
+      "viral infections",
+      "parasitic or fungal infections",
+      "healthcare-associated infections"
+    ],
+    "treatment": [
+      "antimicrobials",
+      "intravenous fluids",
+      "vasopressors",
+      "supportive care"
+    ]
+  },
+  "sexually-transmitted-infections-(stis)": {
+    "symptoms": [
+      "persistent delusions",
+      "persistent hallucinations",
+      "disorganized thinking",
+      "highly disorganized behaviour",
+      "limited speech",
+      "restricted emotions",
+      "social withdrawal",
+      "cognitive impairments"
+    ],
+    "causes": [
+      "bacterial infections (chlamydia, gonorrhoea, syphilis, trichomoniasis)",
+      "viral infections (hepatitis B, herpes simplex virus, HIV, human papillomavirus)"
+    ],
+    "treatment": [
+      "antibiotics for bacterial STIs",
+      "antivirals for viral STIs",
+      "condom use",
+      "vaccination (hepatitis B, HPV)"
+    ]
+  },
+  "shingles-(herpes-zoster)": {
+    "symptoms": [
+      "painful rash",
+      "itching",
+      "tingling",
+      "numbness",
+      "fever",
+      "headache",
+      "chills",
+      "fatigue"
+    ],
+    "causes": [
+      "reactivation of varicella-zoster virus (VZV)"
+    ],
+    "treatment": [
+      "antiviral medications (acyclovir, valacyclovir, famciclovir)",
+      "pain relievers",
+      "calamine lotion",
+      "cool compresses"
+    ],
+    "when_to_call_a_doctor": [
+      "if rash appears near the eye",
+      "if pain is severe",
+      "if symptoms persist or worsen"
+    ]
+  },
+  "snakebite-envenoming": {
+    "symptoms": [
+      "paralysis that may prevent breathing",
+      "bleeding disorders leading to fatal haemorrhage",
+      "irreversible kidney failure",
+      "tissue damage causing permanent disability and limb amputation"
+    ],
+    "causes": [
+      "bites by venomous snakes"
+    ],
+    "treatment": [
+      "safe and effective antivenoms",
+      "included in WHO List of essential medicines"
+    ]
+  },
+  "social-determinants-of-health": {
+    "symptoms": [
+      "lower life expectancy",
+      "poor health outcomes",
+      "higher mortality rates"
+    ],
+    "causes": [
+      "economic inequality",
+      "structural discrimination",
+      "conflict",
+      "climate disruption"
+    ],
+    "treatment": [
+      "address economic inequality",
+      "invest in social infrastructure",
+      "overcome structural discrimination",
+      "manage climate change and digital transformation"
+    ]
+  },
+  "sodium-reduction": {
+    "symptoms": [
+      "raised blood pressure",
+      "increased risk of cardiovascular diseases",
+      "gastric cancer",
+      "obesity",
+      "osteoporosis",
+      "Meniere\u2019s disease",
+      "kidney disease"
+    ],
+    "causes": [
+      "consuming too much sodium"
+    ],
+    "treatment": [
+      "reduce sodium intake",
+      "eat fresh, minimally processed foods",
+      "use herbs and spices instead of salt",
+      "limit processed foods"
+    ]
+  },
+  "soil-transmitted-helminth-infections": {
+    "symptoms": [
+      "intestinal manifestations (diarrhoea and abdominal pain)",
+      "malnutrition",
+      "general malaise and weakness",
+      "impaired growth and physical development",
+      "intestinal obstruction (in severe cases)"
+    ],
+    "causes": [
+      "infection by parasitic worms (roundworm, whipworm, hookworm)"
+    ],
+    "treatment": [
+      "albendazole (400 mg)",
+      "mebendazole (500 mg)",
+      "ivermectin for Strongyloides stercoralis"
+    ]
+  },
+  "spinal-cord-injury": {
+    "symptoms": [
+      "partial or complete loss of sensory and/or motor functions",
+      "bowel, bladder and sexual dysfunction",
+      "dysregulation of blood pressure, heart rate, and/or body temperature",
+      "spasticity",
+      "chronic pain",
+      "urinary tract infections",
+      "pressure ulcers",
+      "respiratory complications",
+      "autonomic dysreflexia",
+      "deep vein thrombosis",
+      "osteoporosis",
+      "depression"
+    ],
+    "causes": [
+      "trauma (falls, road traffic injuries, violence)",
+      "non-traumatic causes (tumors, degenerative conditions, infections)"
+    ],
+    "treatment": [
+      "prehospital management",
+      "acute care (including surgical intervention)",
+      "multidisciplinary rehabilitation",
+      "assistive products",
+      "ongoing health care"
+    ]
+  },
+  "sporotrichosis": {
+    "symptoms": [
+      "nodules and plaques on exposed skin sites",
+      "ulceration of nodules and plaques",
+      "lymphocutaneous spread (sporotrichoid pattern)",
+      "erythema multiforme (in cat-related infections)",
+      "arthritis, respiratory infection, meningitis (rare deep forms)"
+    ],
+    "causes": [
+      "infection by Sporothrix fungi",
+      "contact with contaminated plant materials or infected cats"
+    ],
+    "treatment": [
+      "oral itraconazole",
+      "terbinafine",
+      "potassium iodide (saturated solution)",
+      "intravenous amphotericin B (for systemic forms)"
+    ]
+  },
+  "substandard-and-falsified-medical-products": {
+    "symptoms": [
+      "ineffective treatment of illness",
+      "harmful effects due to contaminants or toxic substances",
+      "increased risk of antimicrobial resistance"
+    ],
+    "causes": [
+      "poor manufacturing practices",
+      "inadequate quality control",
+      "deliberate falsification for financial gain"
+    ],
+    "treatment": [
+      "robust regulatory systems",
+      "public awareness campaigns",
+      "access to safe, affordable medical products"
+    ]
+  },
+  "sugars-and-dental-caries": {
+    "symptoms": [
+      "tooth decay",
+      "dental cavities",
+      "pain and infection",
+      "tooth extraction"
+    ],
+    "causes": [
+      "consumption of free sugars",
+      "bacterial metabolism of sugars producing acid"
+    ],
+    "treatment": [
+      "avoid dietary free sugars",
+      "use of fluoride",
+      "essential oral health care"
+    ]
+  },
+  "suicide": {
+    "symptoms": [
+      "mental disorders (depression, alcohol use disorders)",
+      "previous suicide attempt",
+      "breakdown in ability to deal with life stresses",
+      "conflict, disaster, violence, abuse, or loss",
+      "sense of isolation"
+    ],
+    "causes": [
+      "multi-faceted: social, cultural, biological, psychological, environmental factors"
+    ],
+    "treatment": [
+      "limit access to means of suicide",
+      "responsible media reporting",
+      "socio-emotional life skills training",
+      "early identification and management of suicidal behaviors"
+    ]
+  },
+  "syphilis": {
+    "symptoms": [
+      "primary stage: painless chancre",
+      "secondary stage: non-itchy rash, lesions",
+      "latent stage: often asymptomatic",
+      "tertiary stage: brain and cardiovascular diseases",
+      "congenital syphilis: rashes, inflammation, anaemia, developmental delays"
+    ],
+    "causes": [
+      "infection by Treponema pallidum",
+      "sexual transmission",
+      "mother-to-child transmission"
+    ],
+    "treatment": [
+      "benzathine penicillin (BPG)",
+      "doxycycline, ceftriaxone, or azithromycin (second line)"
+    ]
+  },
+  "taeniasis-cysticercosis": {
+    "symptoms": [
+      "abdominal pain",
+      "nausea",
+      "diarrhoea or constipation",
+      "neurocysticercosis: severe headache, blindness, convulsions, epileptic seizures"
+    ],
+    "causes": [
+      "infection by Taenia solium (pork tapeworm)",
+      "consumption of undercooked infected pork",
+      "ingestion of eggs via fecal-oral route"
+    ],
+    "treatment": [
+      "praziquantel (10 mg/kg)",
+      "niclosamide",
+      "albendazole (400 mg for 3 days)",
+      "surgery for neurocysticercosis"
+    ]
+  },
+  "tetanus": {
+    "symptoms": [
+      "jaw cramping or inability to open mouth",
+      "muscle spasms",
+      "trouble swallowing",
+      "seizures",
+      "headache",
+      "fever and sweating",
+      "changes in blood pressure or heart rate"
+    ],
+    "causes": [
+      "infection by Clostridium tetani spores",
+      "contaminated wounds or cuts"
+    ],
+    "treatment": [
+      "hospital care",
+      "human tetanus immune globulin (TIG)",
+      "aggressive wound care",
+      "drugs to control muscle spasms",
+      "antibiotics",
+      "tetanus vaccination"
+    ]
+  },
+  "trachoma": {
+    "symptoms": [
+      "inflammation of the eye",
+      "scarring of the eyelid",
+      "eyelashes rubbing against the eyeball (trichiasis)",
+      "constant pain and light intolerance",
+      "scarring of the cornea",
+      "visual impairment or blindness"
+    ],
+    "causes": [
+      "infection by Chlamydia trachomatis",
+      "transmission via eye and nose discharges",
+      "exposure to infected flies"
+    ],
+    "treatment": [
+      "surgery for trichiasis",
+      "antibiotics (azithromycin)",
+      "facial cleanliness",
+      "environmental improvement (water and sanitation)"
+    ]
+  },
+  "trichomoniasis": {
+    "symptoms": [
+      "vaginal discharge (in women)",
+      "itch, pain when urinating, pain during intercourse (in women)",
+      "urethral discharge or pain when urinating (in men)"
+    ],
+    "causes": [
+      "infection by Trichomonas vaginalis",
+      "sexual transmission"
+    ],
+    "treatment": [
+      "metronidazole",
+      "tinidazole"
+    ]
+  },
+  "trypanosomiasis-human-african-(sleeping-sickness)": {
+    "symptoms": [
+      "first stage: bouts of fever, headache, enlarged lymph nodes, joint pains, itching",
+      "second stage: behavior changes, confusion, sensory disturbances, poor coordination, sleep cycle disturbance"
+    ],
+    "causes": [
+      "infection by Trypanosoma brucei",
+      "bites by infected tsetse flies"
+    ],
+    "treatment": [
+      "pentamidine (first stage, gambiense-HAT)",
+      "eflornithine (second stage, gambiense-HAT)",
+      "NECT (nifurtimox-eflornithine combination therapy)",
+      "fexinidazole (first and non-severe second stage, gambiense-HAT)",
+      "suramin (first stage, rhodesiense-HAT)",
+      "melarsoprol (second stage, rhodesiense-HAT)"
+    ]
+  },
+  "tuberculosis": {
+    "symptoms": [
+      "prolonged cough (sometimes with blood)",
+      "chest pain",
+      "weakness",
+      "fatigue",
+      "weight loss",
+      "fever",
+      "night sweats"
+    ],
+    "causes": [
+      "bacteria (Mycobacterium tuberculosis)",
+      "spreads through the air when infected people cough, sneeze, or spit"
+    ],
+    "treatment": [
+      "antibiotics: isoniazid, rifampicin, pyrazinamide, ethambutol",
+      "daily medication for 4\u20136 months",
+      "treatment for drug-resistant TB requires different medicines"
+    ],
+    "when_to_call_a_doctor": [
+      "if symptoms like prolonged cough, fever, and unexplained weight loss persist",
+      "if at increased risk (e.g., HIV infection, contact with TB patients)"
+    ]
+  },
+  "tungiasis": {
+    "symptoms": [
+      "pain and itching",
+      "difficulty walking",
+      "lesions on feet (whitish disc with dark center)",
+      "abscesses from bacterial superinfection"
+    ],
+    "causes": [
+      "infection by female sand flea (Tunga penetrans)",
+      "transmission from contaminated soil or floors"
+    ],
+    "treatment": [
+      "topical treatment with dimeticone oils (NYDA\u00ae)",
+      "sterile mechanical extraction by professionals",
+      "wound care and tetanus vaccination if needed"
+    ],
+    "when_to_call_a_doctor": [
+      "if lesions show signs of infection (e.g., abscesses, swelling)",
+      "if experiencing severe pain or difficulty walking"
+    ]
+  },
+  "typhoid": {
+    "symptoms": [
+      "prolonged fever",
+      "fatigue",
+      "headache",
+      "nausea",
+      "abdominal pain",
+      "constipation or diarrhoea",
+      "rash"
+    ],
+    "causes": [
+      "bacterium Salmonella Typhi",
+      "contaminated food or water"
+    ],
+    "treatment": [
+      "antibiotics (resistance may complicate treatment)",
+      "hydration and rest",
+      "complete prescribed antibiotic course"
+    ],
+    "when_to_call_a_doctor": [
+      "if symptoms like high fever and abdominal pain occur",
+      "after travel to endemic areas with poor sanitation"
+    ]
+  },
+  "ultraviolet-radiation": {
+    "symptoms": [
+      "sunburn",
+      "premature skin aging",
+      "skin cancer (melanoma, squamous cell carcinoma, basal cell carcinoma)",
+      "eye damage (cataracts, pterygium)"
+    ],
+    "causes": [
+      "exposure to UV radiation from the sun or artificial sources"
+    ],
+    "treatment": [
+      "topical treatments for sunburn",
+      "surgical removal of skin cancers",
+      "cataract surgery"
+    ],
+    "when_to_call_a_doctor": [
+      "if unusual skin changes or growths appear",
+      "if vision problems develop"
+    ]
+  },
+  "west-nile-virus": {
+    "symptoms": [
+      "fever",
+      "headache",
+      "body aches",
+      "rash",
+      "severe cases: neurological symptoms (e.g., encephalitis)"
+    ],
+    "causes": [
+      "West Nile virus transmitted by mosquito bites"
+    ],
+    "treatment": [
+      "supportive care (no specific antiviral treatment)",
+      "hospitalization for severe cases"
+    ],
+    "when_to_call_a_doctor": [
+      "if neurological symptoms develop (e.g., confusion, muscle weakness)",
+      "after mosquito bites in endemic areas"
+    ]
+  },
+  "zika-virus": {
+    "symptoms": [
+      "rash",
+      "fever",
+      "conjunctivitis",
+      "muscle and joint pain",
+      "headache"
+    ],
+    "causes": [
+      "Zika virus transmitted by Aedes mosquitoes",
+      "sexual transmission",
+      "mother-to-child transmission during pregnancy"
+    ],
+    "treatment": [
+      "rest and hydration",
+      "pain and fever relief (avoid NSAIDs until dengue is ruled out)"
+    ],
+    "when_to_call_a_doctor": [
+      "if pregnant and exposed to Zika virus",
+      "if symptoms of Guillain-Barr\u00e9 syndrome develop (e.g., muscle weakness)"
+    ]
+  }
+}
